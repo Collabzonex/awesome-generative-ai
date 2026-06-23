@@ -419,6 +419,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [Melody Genie](https://melodygenie.app) lyrics-first AI lyric generator with 7 tools (Style DNA, Beat Matcher,
+DNA Mixer, hum-to-lyrics, rewrites, custom AI lyricists)
 
 ## Other
 
